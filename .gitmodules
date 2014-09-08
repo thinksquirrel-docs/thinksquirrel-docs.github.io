@@ -3,13 +3,13 @@
 	url = https://github.com/thinksquirrel-docs/word-game-builder-docs.git
 [submodule "fluvio"]
 	path = fluvio
-	url = https://github.com/thinksquirrel-docs/fluvio-docs
+	url = https://github.com/thinksquirrel-docs/fluvio-docs.git
 [submodule "camera-shake"]
 	path = camera-shake
-	url = https://github.com/thinksquirrel-docs/camera-shake-docs
+	url = https://github.com/thinksquirrel-docs/camera-shake-docs.git
 [submodule "p2d"]
 	path = p2d
-	url = https://github.com/thinksquirrel-docs/physics-2d-extensions-docs
+	url = https://github.com/thinksquirrel-docs/physics-2d-extensions-docs.git
 [submodule "thinkscroller"]
 	path = thinkscroller
-	url = https://github.com/thinksquirrel-docs/thinkscroller-docs
+	url = https://github.com/thinksquirrel-docs/thinkscroller-docs.git
