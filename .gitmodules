@@ -1,0 +1,3 @@
+[submodule "wgb"]
+	path = wgb
+	url = https://github.com/thinksquirrel-docs/word-game-builder-docs.git
