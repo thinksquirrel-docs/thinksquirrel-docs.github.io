@@ -1,3 +1,15 @@
 [submodule "wgb"]
 	path = wgb
 	url = https://github.com/thinksquirrel-docs/word-game-builder-docs.git
+[submodule "fluvio"]
+	path = fluvio
+	url = https://github.com/thinksquirrel-docs/fluvio-docs
+[submodule "camera-shake"]
+	path = camera-shake
+	url = https://github.com/thinksquirrel-docs/camera-shake-docs
+[submodule "p2d"]
+	path = p2d
+	url = https://github.com/thinksquirrel-docs/physics-2d-extensions-docs
+[submodule "thinkscroller"]
+	path = thinkscroller
+	url = https://github.com/thinksquirrel-docs/thinkscroller-docs
