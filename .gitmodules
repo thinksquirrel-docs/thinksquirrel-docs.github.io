@@ -1,9 +1,6 @@
 [submodule "wgb"]
 	path = wgb
 	url = https://github.com/thinksquirrel-docs/word-game-builder-docs.git
-[submodule "fluvio"]
-	path = fluvio
-	url = https://github.com/thinksquirrel-docs/fluvio-docs.git
 [submodule "camera-shake"]
 	path = camera-shake
 	url = https://github.com/thinksquirrel-docs/camera-shake-docs.git
